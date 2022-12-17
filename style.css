@@ -1,0 +1,42 @@
+body
+{
+font-family: 'Cursive', sans-serif;
+background: lavenderblush;
+}
+
+.header_div
+{
+    background: rgb(189, 70, 90);
+    color: lavender;
+}
+
+.header_div p
+{
+font-family: 'Gill Sans', sans-serif;
+color: aquamarine;
+letter-spacing: 3px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+font-family: 'Segoe UI', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(22, 5, 90);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(108, 213, 178);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
